@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "851697126175",
+    "project_id": "winesquare-9e640",
+    "storage_bucket": "winesquare-9e640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851697126175:android:79d0072f040fa2f91bfe2a",
+        "android_client_info": {
+          "package_name": "com.simicart.winesquare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851697126175-8o0t4hdrn0p2attco87orke06l4r3q7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb8QIYZME6f3N-InXbNHZjeh3uZpk9tZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851697126175-8o0t4hdrn0p2attco87orke06l4r3q7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
